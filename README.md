@@ -89,6 +89,3 @@
 <img src="https://raw.githubusercontent.com/AnshSingh16/AnshSingh16/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-</div>
